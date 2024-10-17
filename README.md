@@ -1,4 +1,4 @@
-Website Cloning Project
+        Website Cloning Project
 This project is part of my NxtWave internship, where the objective was to develop a replica of a live website using HTML, CSS, and Bootstrap. The goal was to closely match the design, layout, and functionality of the reference website, focusing on static web development concepts.
 
 Key Features:
